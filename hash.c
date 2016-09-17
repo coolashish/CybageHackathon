@@ -1,22 +1,29 @@
 #include "header.h"
 
 int Hash (char * str) {
-    char ch;
-    int index = 0, i = 0, power = 1000;
-    while ((ch = str[i]) != '\0') {
-        if (ch >= 'a' && ch <= 'z')
-            index += ((ch - 'a') * power) % TABLE_SIZE; 
-        //else if (ch >= 'A' && ch <= 'Z')
-        else
-            index += ((ch - 'A') * power) % TABLE_SIZE; 
-        if (power != 1)
-            power -= 1;
-        i++;
+    /*
+       char ch;
+       int index = 0, i = 0, power = 1000;
+       while ((ch = str[i]) != '\0') {
+    // Convert to lower case
+    if (ch >= 'A' && ch <= 'Z')
+    ch += 'a' - 'A';
+    index += ((ch - 'a') * power) % TABLE_SIZE; 
+    if (power != 1)
+    power -= 1;
+    i++;
     }
     if (index < 0)
-        index = 1;
+    index = 1;
     index %= TABLE_SIZE;
-    return index;
+    */
+    unsigned long hash = 5381;
+    int c;
+
+    while ((c = *(str++)))
+        hash = ((hash << 5) + hash) + c; /* hash * 33 + c */
+
+    return hash % TABLE_SIZE;
 }
 
 int InsertInHash (char *str, int index, node **table) {
@@ -74,7 +81,7 @@ int InitTable (node **table) {
     return 0;
 }
 
-int IterateTable (node ** table) {
+int IterateTable (FILE *fp, node ** table) {
     int i = 0;
     node *p;
     for (i = 0; i < TABLE_SIZE; i++) {
@@ -82,7 +89,10 @@ int IterateTable (node ** table) {
             continue;
         p = table[i];
         while (p) {
-            printf("Text: %s\tcount: %d\n", p->str, p->count);
+            if (p->str && (strcmp(p->str, ""))) {
+                fprintf(fp, "Count: %d\t", p->count);
+                fprintf(fp, "Text: '%s'\n", p->str);
+            }
             p = p->next;
         }
     }

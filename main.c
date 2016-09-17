@@ -1,5 +1,5 @@
 #include "header.h"
-char delim[] = {'.', '!', '?', '\n'};
+char delim[] = {'.', '!', '?', '\n', '\0'};
 
 
 int main (int argc, char **argv) {
@@ -21,6 +21,8 @@ int main (int argc, char **argv) {
 #ifdef DEBUG
         printf("Sentence: %s\n", sent);
 #endif
+        if (*sent == ' ')
+            sent += 1;
         index = Hash(sent);
         if ((InsertInHash(sent, index, sentTable)) < 0) {
             return -1;
@@ -40,8 +42,8 @@ int main (int argc, char **argv) {
         file = NULL;
         sent = strtok_r(file, delim, &saveptr1);
     }
-    IterateTable(sentTable);
-    IterateTable(wordTable);
+    IterateTable(stdout, sentTable);
+    IterateTable(stdout, wordTable);
 
     return 0;
 }

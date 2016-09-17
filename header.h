@@ -18,5 +18,4 @@ int Hash (char * str);
 int InsertInHash (char *str, int index, node **table);
 node * CreateNode (char *str);
 int InitTable (node **table);
-int IterateTable (node ** table);
-
+int IterateTable (FILE * fp, node ** table);
