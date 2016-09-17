@@ -8,6 +8,7 @@ int main (int argc, char **argv) {
     int index = 0;
     node ** sentTable, **wordTable;
 
+
     if((AllocateMemory(&sent, &word, &sentTable, &wordTable)) < 0) {
             return -1;
     }
