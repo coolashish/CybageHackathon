@@ -3,9 +3,9 @@ char delim[] = {'.', '!', '?', '\n', '\0'};
 
 
 int main (int argc, char **argv) {
-    char *sent, *word, *file;
+    char *sent, *word, *file, *dupSent;
     char *saveptr1, *saveptr2;
-    int index = 0;
+    int index = 0, sentIndex = 0;
     node ** sentTable, **wordTable;
 
 
@@ -22,29 +22,48 @@ int main (int argc, char **argv) {
 #ifdef DEBUG
         printf("Sentence: %s\n", sent);
 #endif
+        ToLower(sent);
         if (*sent == ' ')
             sent += 1;
+        dupSent = (char *)malloc(strlen(sent) + 1);
+        if (!dupSent) {
+#ifdef DEBUG
+            printf("Memory allocation failed\n");
+#endif
+            return -1;
+        }
+        strcpy(dupSent, sent);
+        /*
         index = Hash(sent);
         if ((InsertInHash(sent, index, sentTable)) < 0) {
             return -1;
         }
+        */
         word = strtok_r(sent, " ", &saveptr2);
+        sentIndex = 0;
         while (word) {
 #ifdef DEBUG
         printf("Word: %s\n", word);
 #endif
             index = Hash(word);
+            sentIndex = (sentIndex + index) % TABLE_SIZE;
             if ((InsertInHash(word, index, wordTable)) < 0) {
                 return -1;
             }
             sent = NULL;
             word = strtok_r(sent, " ", &saveptr2);
         }
+        if ((InsertInHash(dupSent, sentIndex, sentTable)) < 0) {
+            return -1;
+        }
+        free(dupSent);
         file = NULL;
         sent = strtok_r(file, delim, &saveptr1);
     }
     IterateTable(stdout, sentTable);
     IterateTable(stdout, wordTable);
+
+    self_analyse(stdout);
 
     return 0;
 }
@@ -103,4 +122,12 @@ char * ReadFile (char *filename) {
 
     file[fsize] = '\0';
     return file;
+}
+
+void ToLower (char *string) {
+    int i = 0;
+    for (i = 0; string[i] != '\0'; i++)
+        if (string[i] >= 'A' && string[i] <= 'Z')
+            string[i] += 'a' - 'A';
+    return;
 }
