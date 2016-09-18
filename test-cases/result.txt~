@@ -1,0 +1,29 @@
++-+-+-+-+-+-+-+-
+| TEST CASES   |
++-+-+-+-+-+-+-+-
+
+
+1. 
+File size: 1.7 MB
+File contents: plain english
+Output:
+---------------------------------------------------
+CPU[%]      RAM[KB]     DISK_IO[count]
+   0.0       41080K     read : 551 write: 23
+---------------------------------------------------
+real    0m0.382s
+user    0m0.094s
+sys 0m0.033s
+
+
+2. File size: 4 MB
+File contents: random visible characters 
+Output:
+---------------------------------------------------
+CPU[%]      RAM[KB]     DISK_IO[count]
+  47.0       49664K     read : 561 write: 1184
+--------------------------------------------------
+real    0m1.243s
+user    0m0.330s
+sys 0m0.183s
+

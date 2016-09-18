@@ -3,8 +3,16 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-char delim[] = {'.', '!', '?', '\n', '\0'};
+#define NO_OF_THREADS 4
 
+char delim[] = {'.', '!', '?', '\n', '\0'};
+int file_size;
+
+struct ThreadShareToLower {
+    char *string;
+    int from;
+    int till;
+};
 
 int main (int argc, char **argv) {
     char *sent, *word, *file, *dupSent;
@@ -24,6 +32,8 @@ int main (int argc, char **argv) {
     if(!(file = ReadFile(argv[1]))) {
             return -1;
     }
+    //ThreadToLowerController(file);
+
     
     sent = strtok_r(file, delim, &saveptr1);
     while (sent) {
@@ -69,18 +79,17 @@ int main (int argc, char **argv) {
         sent = strtok_r(file, delim, &saveptr1);
     }
 
-    //IterateTable(stdout, sentTable);
-    //IterateTable(stdout, wordTable);
 
     FILE *fp1;
-    printf("Filename: %s\n", argv[2]);
     fp1 = fopen(argv[2], "w");
     if (!fp1) {
         return -1;
     }
 
-    BeautifyOutput(fp1, sentTable);
     BeautifyOutput(fp1, wordTable);
+    BeautifyOutput(fp1, sentTable);
+    //IterateTable(fp1, sentTable);
+    //IterateTable(fp1, wordTable);
 
     fclose(fp1);
 
@@ -141,8 +150,49 @@ char * ReadFile (char *filename) {
     fread(file, fsize, 1, fp);
     fclose(fp);
 
+    file_size = fsize;
     file[fsize] = '\0';
     return file;
+}
+
+void ThreadToLowerController(char *string) {
+    int thread;
+    pthread_t *t;
+    struct ThreadShareToLower *tmp;
+
+    tmp  = (struct ThreadShareToLower *)malloc
+            (sizeof(struct ThreadShareToLower));
+
+    tmp->string = string;
+
+    t = (pthread_t *)malloc(sizeof(pthread_t)*NO_OF_THREADS);
+    for (thread = 0; thread < NO_OF_THREADS; thread++) {
+        tmp->from = (file_size / NO_OF_THREADS) * thread;
+        tmp->till = tmp->from + (file_size / NO_OF_THREADS);
+        if(pthread_create(&t[thread], NULL, ThreadToLower, tmp)){
+            fprintf(stderr, "create failed\n");
+            exit(-1);
+        }
+    }
+    for(thread = 0; thread<NO_OF_THREADS;thread++)
+        pthread_join(t[thread], NULL);
+
+}
+
+void *ThreadToLower (void *arg) {
+    int i = 0;
+    char *string;
+    int from;
+    int till;
+
+    string = ((struct ThreadShareToLower *)arg)->string;
+    from = ((struct ThreadShareToLower *)arg)->from;
+    till = ((struct ThreadShareToLower *)arg)->till;
+
+    for (i = from; i < till; i++)
+        if (string[i] >= 'A' && string[i] <= 'Z')
+            string[i] += 'a' - 'A';
+    return NULL;
 }
 
 void ToLower (char *string) {
@@ -153,7 +203,6 @@ void ToLower (char *string) {
     return;
 }
 
-#define NO_OF_THREADS 4
 void BeautifyOutput (FILE *fp, void *ptr) {
     int i;
     pthread_t *t;

@@ -89,7 +89,12 @@ int limit_resources (int pid) {
     fprintf(stderr, "in limit :%s:%d:%d\n", 
             __FILE__, __LINE__, pid);
 #endif
-    sprintf(cmd, "cpulimit -l %d -p %d > /tmp/null.txt & "
+    /*
+    int fd = open("/dev/null", "w");
+    dup2(1, fd);
+    dup2(2, fd);
+    */
+    sprintf(cmd, "cpulimit -l %d -p %d  & "
             "echo \"successfully limited to %d%%\"\n", 
             (int)(resource_limits.cpu_usage+0.5), pid,
             (int)(resource_limits.cpu_usage+0.5));
@@ -119,7 +124,9 @@ int analyse(FILE *fp, int pid, long time) {
     fp_tmp = NULL;
 
     //computation
-    fprintf(fp, "CPU[%%]\tRAM[MB]\tDISK_IO[count]\n");
+    fprintf(fp, "\n------------------------------------\n");
+    fprintf(fp, "CPU[%%]\t\tRAM[MB]\t\tDISK_IO[count]\n");
+    fprintf(fp, "------------------------------------\n\n");
    
     while(1) {
         kill(pid, 0);
@@ -134,7 +141,7 @@ int analyse(FILE *fp, int pid, long time) {
         fscanf(fp_tmp, "%s", buff);
         fclose(fp_tmp);
 
-        fprintf(fp, "%6s\t", buff);
+        fprintf(fp, "%6s\t\t", buff);
 
         sprintf(cmd, "pmap %d | grep total > tmp", pid);
         system(cmd);
@@ -143,7 +150,7 @@ int analyse(FILE *fp, int pid, long time) {
         fscanf(fp_tmp, "%s", buff);
         fclose(fp_tmp);
 
-        fprintf(fp, "%7s\t", buff);
+        fprintf(fp, "%7s\t\t", buff);
 
         sprintf(cmd, "cat /proc/%d/io > tmp", pid);
         system(cmd);
@@ -195,7 +202,6 @@ int main (int argc, char *argv[], char *envp[]) {
 #ifdef DEBUG
         fprintf(stderr, "Child\n");
 #endif
-        printf("arv[4]: %s\n", argv[4]);
         if (execl(argv[2], argv[2], argv[3], argv[4], (char*)0) < 0) {
             fprintf(stderr, "execve failed:%s:%d:", 
                     __FILE__, __LINE__);

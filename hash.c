@@ -90,8 +90,7 @@ int IterateTable (FILE *fp, node ** table) {
         p = table[i];
         while (p) {
             if (p->str && (strcmp(p->str, ""))) {
-                fprintf(fp, "Count: %d\t", p->count);
-                fprintf(fp, "Text: '%s'\n", p->str);
+                fprintf(fp, "Count: %d\tText: %s\n", p->count, p->str);
             }
             p = p->next;
         }
@@ -113,8 +112,7 @@ void* ThreadIterateTable (void *arg) {
         p = table[i];
         while (p) {
             if (p->str && (strcmp(p->str, ""))) {
-                fprintf(fp, "Count: %d\t", p->count);
-                fprintf(fp, "Text: '%s'\n", p->str);
+                fprintf(fp, "Count: %d\tText: %s\n", p->count, p->str);
             }
             p = p->next;
         }

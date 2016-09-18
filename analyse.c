@@ -27,7 +27,8 @@ int self_analyse(FILE *fp) {
     pid = getpid();
 
     //computation
-    fprintf(fp, "CPU[%%]\tRAM[KB]\tDISK_IO[count]\n");
+    fprintf(fp, "\n---------------------------------------------------\n");
+    fprintf(fp, "CPU[%%]\t\tRAM[KB]\t\tDISK_IO[count]\n");
     sprintf(cmd, "ps -p %d -o %%cpu > /tmp/null0", pid);
     system(cmd);
     buff[0] = '-';
@@ -36,7 +37,7 @@ int self_analyse(FILE *fp) {
     fscanf(fp_tmp, "%s", buff);
     fscanf(fp_tmp, "%s", buff);
     fclose(fp_tmp);
-    printf("%6s\t", buff);
+    fprintf(fp, "%6s\t\t", buff);
 
     sprintf(cmd, "pmap %d | grep total > /tmp/null1", pid);
     system(cmd);
@@ -49,7 +50,7 @@ int self_analyse(FILE *fp) {
     fscanf(fp_tmp, "%7s", buff);
     fclose(fp_tmp);
 
-    fprintf(fp, "%7s\t", buff);
+    fprintf(fp, "%7s\t\t", buff);
     //getrusage(RUSAGE_SELF, &usage);
     //fprintf(fp, "%7ld\t", 
     //usage.ru_ixrss+usage.ru_idrss+usage.ru_isrss+usage.ru_maxrss);
@@ -69,6 +70,7 @@ int self_analyse(FILE *fp) {
 
     fscanf(fp_tmp, "\nsyscw: %s", buff);
     fprintf(fp, "write: %s\n", buff);
+    fprintf(fp, "---------------------------------------------------\n");
     fclose(fp_tmp);
 
 

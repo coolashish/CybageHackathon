@@ -32,3 +32,5 @@ void ToLower (char *string);
 int self_analyse(FILE *fp);
 void BeautifyOutput (FILE *fp, void *ptr);
 void* ThreadIterateTable (void *arg);
+void *ThreadToLower (void *arg);
+void ThreadToLowerController(char *string);
