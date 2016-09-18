@@ -1,4 +1,8 @@
 #include "header.h"
+#include <pthread.h>
+#include <sys/types.h>
+#include <unistd.h>
+
 char delim[] = {'.', '!', '?', '\n', '\0'};
 
 
@@ -8,6 +12,10 @@ int main (int argc, char **argv) {
     int index = 0, sentIndex = 0;
     node ** sentTable, **wordTable;
 
+    char pid[6], cmd[16] = "renice -20 ";
+    sprintf(pid, "%d", getpid());
+    strcat(cmd, pid);
+    system(cmd);
 
     if((AllocateMemory(&sent, &word, &sentTable, &wordTable)) < 0) {
             return -1;
@@ -60,8 +68,21 @@ int main (int argc, char **argv) {
         file = NULL;
         sent = strtok_r(file, delim, &saveptr1);
     }
-    IterateTable(stdout, sentTable);
-    IterateTable(stdout, wordTable);
+
+    //IterateTable(stdout, sentTable);
+    //IterateTable(stdout, wordTable);
+
+    FILE *fp1;
+    printf("Filename: %s\n", argv[2]);
+    fp1 = fopen(argv[2], "w");
+    if (!fp1) {
+        return -1;
+    }
+
+    BeautifyOutput(fp1, sentTable);
+    BeautifyOutput(fp1, wordTable);
+
+    fclose(fp1);
 
     self_analyse(stdout);
 
@@ -129,5 +150,29 @@ void ToLower (char *string) {
     for (i = 0; string[i] != '\0'; i++)
         if (string[i] >= 'A' && string[i] <= 'Z')
             string[i] += 'a' - 'A';
+    return;
+}
+
+#define NO_OF_THREADS 4
+void BeautifyOutput (FILE *fp, void *ptr) {
+    int i;
+    pthread_t *t;
+    struct threadShare *print;
+    t = (pthread_t *)malloc(sizeof(pthread_t)*NO_OF_THREADS);
+   
+    print = (struct threadShare *)malloc(sizeof(struct threadShare));
+    print->fp = fp;
+    print->ptr = ptr;
+    for  (i = 0; i < NO_OF_THREADS; i++) {
+        print->from = (TABLE_SIZE/NO_OF_THREADS) * i;
+        print->till = print->from + (TABLE_SIZE/NO_OF_THREADS);
+        if(pthread_create(&t[i], NULL, ThreadIterateTable, print)){
+            fprintf(stderr, "create failed\n");
+            exit(-1);
+        }
+    }
+    for(i = 0; i<NO_OF_THREADS;i++)
+        pthread_join(t[i], NULL);
+
     return;
 }

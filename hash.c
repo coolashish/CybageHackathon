@@ -98,3 +98,26 @@ int IterateTable (FILE *fp, node ** table) {
     }
     return 0;
 }
+void* ThreadIterateTable (void *arg) { 
+    FILE *fp; node ** table; int from; int till;
+    int i = 0;
+    node *p;
+
+    fp = ((struct threadShare*)arg)->fp;
+    table = ((struct threadShare*)arg)->ptr;
+    from = ((struct threadShare*)arg)->from;
+    till = ((struct threadShare*)arg)->till;
+    for (i = from; i < till; i++) {
+        if (!table[i])
+            continue;
+        p = table[i];
+        while (p) {
+            if (p->str && (strcmp(p->str, ""))) {
+                fprintf(fp, "Count: %d\t", p->count);
+                fprintf(fp, "Text: '%s'\n", p->str);
+            }
+            p = p->next;
+        }
+    }
+    return NULL;
+}

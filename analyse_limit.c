@@ -89,7 +89,7 @@ int limit_resources (int pid) {
     fprintf(stderr, "in limit :%s:%d:%d\n", 
             __FILE__, __LINE__, pid);
 #endif
-    sprintf(cmd, "cpulimit -l %d -p %d & "
+    sprintf(cmd, "cpulimit -l %d -p %d > /tmp/null.txt & "
             "echo \"successfully limited to %d%%\"\n", 
             (int)(resource_limits.cpu_usage+0.5), pid,
             (int)(resource_limits.cpu_usage+0.5));
@@ -195,7 +195,8 @@ int main (int argc, char *argv[], char *envp[]) {
 #ifdef DEBUG
         fprintf(stderr, "Child\n");
 #endif
-        if (execl(argv[2], argv[2], argv[3], (char*)0) < 0) {
+        printf("arv[4]: %s\n", argv[4]);
+        if (execl(argv[2], argv[2], argv[3], argv[4], (char*)0) < 0) {
             fprintf(stderr, "execve failed:%s:%d:", 
                     __FILE__, __LINE__);
             perror("");
@@ -208,7 +209,8 @@ int main (int argc, char *argv[], char *envp[]) {
         //limit the resources before starting of process
         limit_resources(pid);
         //analyse the utilization of resources by process
-        analyse(stdout, pid, atoi(argv[1]));
+        //analyse(stdout, pid, atoi(argv[1]));
+        wait(NULL);
     }
     else {
         fprintf(stderr, "fork failed:%s:%d:", 
