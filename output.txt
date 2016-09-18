@@ -1,0 +1,1761 @@
+Count: 29	Text: savings
+Count: 2285	Text: we
+Count: 107	Text: books
+Count: 329	Text: advantages
+Count: 37	Text: disposal
+Count: 1418	Text: whole
+Count: 272	Text: diminution
+Count: 825	Text: gay
+Count: 107	Text: literature
+Count: 2	Text: quit
+Count: 540	Text: hardly
+Count: 633	Text: acceptance
+Count: 32	Text: piqued
+Count: 29	Text: savings
+Count: 156	Text: appetite
+Count: 156	Text: appetite
+Count: 41	Text: bred
+Count: 222	Text: offices
+Count: 503	Text: result
+Count: 386	Text: upon
+Count: 308	Text: goodness
+Count: 232	Text: total
+Count: 107	Text: lain
+Count: 193	Text: side
+Count: 191	Text: still
+Count: 646	Text: attended
+Count: 616	Text: provision
+Count: 12	Text: does
+Count: 809	Text: sportsmen
+Count: 41	Text: bred
+Count: 220	Text: terminated
+Count: 668	Text: tolerably
+Count: 417	Text: boisterous
+Count: 639	Text: style
+Count: 222	Text: offices
+Count: 2285	Text: we
+Count: 503	Text: result
+Count: 107	Text: books
+Count: 386	Text: upon
+Count: 610	Text: afford
+Count: 1290	Text: too
+Count: 2857	Text: yet
+Count: 329	Text: advantages
+Count: 610	Text: mind
+Count: 37	Text: disposal
+Count: 1418	Text: whole
+Count: 10	Text: country
+Count: 308	Text: goodness
+Count: 107	Text: admiration
+Count: 232	Text: total
+Count: 12	Text: venture
+Count: 107	Text: lain
+Count: 144	Text: impression
+Count: 272	Text: diminution
+Count: 610	Text: expect
+Count: 193	Text: side
+Count: 712	Text: simple
+Count: 825	Text: gay
+Count: 136	Text: talking
+Count: 107	Text: literature
+Count: 16	Text: suffer
+Count: 191	Text: still
+Count: 768	Text: was
+Count: 2	Text: quit
+Count: 527	Text: wrong
+Count: 540	Text: hardly
+Count: 121	Text: raising
+Count: 633	Text: acceptance
+Count: 307	Text: worthy
+Count: 646	Text: attended
+Count: 146	Text: polite
+Count: 32	Text: piqued
+Count: 2410	Text: sir
+Count: 610	Text: mind
+Count: 51	Text: burst
+Count: 311	Text: conduct
+Count: 107	Text: admiration
+Count: 616	Text: provision
+Count: 12	Text: venture
+Count: 144	Text: impression
+Count: 719	Text: square
+Count: 610	Text: expect
+Count: 1334	Text: way
+Count: 12	Text: does
+Count: 136	Text: offer
+Count: 712	Text: simple
+Count: 222	Text: overcame
+Count: 809	Text: sportsmen
+Count: 3857	Text: and
+Count: 136	Text: talking
+Count: 20	Text: arise
+Count: 16	Text: suffer
+Count: 1548	Text: six
+Count: 768	Text: was
+Count: 220	Text: regard
+Count: 220	Text: terminated
+Count: 639	Text: believing
+Count: 527	Text: wrong
+Count: 1119	Text: stairs
+Count: 668	Text: tolerably
+Count: 8	Text: perceived
+Count: 121	Text: raising
+Count: 2	Text: rose
+Count: 417	Text: boisterous
+Count: 109	Text: amongst
+Count: 307	Text: worthy
+Count: 14	Text: hand
+Count: 146	Text: polite
+Count: 639	Text: style
+Count: 957	Text: end
+Count: 610	Text: afford
+Count: 1290	Text: too
+Count: 2857	Text: yet
+Count: 10	Text: country
+Count: 109	Text: answered
+Count: 957	Text: end
+Count: 10	Text: resources
+Count: 109	Text: answered
+Count: 321	Text: prevailed
+Count: 10	Text: resources
+Count: 281	Text: waited
+Count: 107	Text: juvenile
+Count: 617	Text: together
+Count: 14	Text: years
+Count: 12	Text: mirth
+Count: 321	Text: prevailed
+Count: 203	Text: therefore
+Count: 222	Text: lovers
+Count: 2410	Text: sir
+Count: 12	Text: hills
+Count: 39	Text: drawn
+Count: 39	Text: order
+Count: 29	Text: equally
+Count: 150	Text: preference
+Count: 281	Text: waited
+Count: 131	Text: have
+Count: 107	Text: juvenile
+Count: 617	Text: together
+Count: 14	Text: years
+Count: 12	Text: mirth
+Count: 203	Text: therefore
+Count: 131	Text: have
+Count: 51	Text: burst
+Count: 2145	Text: the
+Count: 311	Text: conduct
+Count: 719	Text: square
+Count: 298	Text: supplied
+Count: 298	Text: supplied
+Count: 1334	Text: way
+Count: 22	Text: against
+Count: 37	Text: estate
+Count: 665	Text: simplicity
+Count: 22	Text: against
+Count: 614	Text: same
+Count: 665	Text: simplicity
+Count: 136	Text: offer
+Count: 226	Text: whatever
+Count: 222	Text: overcame
+Count: 824	Text: discovered
+Count: 936	Text: favourable
+Count: 534	Text: indeed
+Count: 824	Text: discovered
+Count: 107	Text: sending
+Count: 3857	Text: and
+Count: 339	Text: delightful
+Count: 1565	Text: any
+Count: 8	Text: likely
+Count: 8	Text: seen
+Count: 20	Text: arise
+Count: 129	Text: would
+Count: 107	Text: celebrated
+Count: 109	Text: consisted
+Count: 2680	Text: had
+Count: 8	Text: desirous
+Count: 1548	Text: six
+Count: 220	Text: regard
+Count: 639	Text: believing
+Count: 1119	Text: stairs
+Count: 8	Text: perceived
+Count: 115	Text: beauty
+Count: 2	Text: rose
+Count: 109	Text: amongst
+Count: 14	Text: hand
+Count: 222	Text: lovers
+Count: 211	Text: excuse
+Count: 12	Text: hills
+Count: 121	Text: feelings
+Count: 39	Text: drawn
+Count: 37	Text: body
+Count: 534	Text: indeed
+Count: 39	Text: order
+Count: 885	Text: perfectly
+Count: 29	Text: equally
+Count: 3242	Text: am
+Count: 29	Text: theirs
+Count: 18	Text: silent
+Count: 115	Text: beauty
+Count: 2157	Text: did
+Count: 211	Text: excuse
+Count: 150	Text: preference
+Count: 29	Text: produce
+Count: 121	Text: feelings
+Count: 5002	Text: an
+Count: 3242	Text: am
+Count: 2145	Text: the
+Count: 191	Text: long
+Count: 37	Text: estate
+Count: 12	Text: favour
+Count: 14	Text: introduced
+Count: 192	Text: full
+Count: 18	Text: silent
+Count: 18	Text: removed
+Count: 199	Text: waiting
+Count: 614	Text: same
+Count: 103	Text: saved
+Count: 503	Text: abilities
+Count: 1250	Text: ham
+Count: 534	Text: forfeited
+Count: 226	Text: whatever
+Count: 503	Text: greatly
+Count: 550	Text: tiled
+Count: 936	Text: favourable
+Count: 604	Text: admire
+Count: 5002	Text: an
+Count: 107	Text: sending
+Count: 507	Text: strangers
+Count: 339	Text: delightful
+Count: 1565	Text: any
+Count: 8	Text: likely
+Count: 8	Text: seen
+Count: 824	Text: months
+Count: 129	Text: would
+Count: 2	Text: imagine
+Count: 107	Text: celebrated
+Count: 503	Text: before
+Count: 109	Text: consisted
+Count: 2680	Text: had
+Count: 8	Text: desirous
+Count: 37	Text: body
+Count: 191	Text: long
+Count: 885	Text: perfectly
+Count: 14	Text: introduced
+Count: 546	Text: difficulty
+Count: 694	Text: believe
+Count: 18	Text: removed
+Count: 1808	Text: has
+Count: 550	Text: tiled
+Count: 29	Text: theirs
+Count: 604	Text: admire
+Count: 2157	Text: did
+Count: 503	Text: before
+Count: 14	Text: unfeeling
+Count: 7980	Text: as
+Count: 72	Text: properly
+Count: 29	Text: produce
+Count: 240	Text: hearted
+Count: 546	Text: difficulty
+Count: 12	Text: favour
+Count: 299	Text: quitting
+Count: 192	Text: full
+Count: 503	Text: provided
+Count: 199	Text: waiting
+Count: 628	Text: tedious
+Count: 103	Text: saved
+Count: 4962	Text: ye
+Count: 5754	Text: at
+Count: 503	Text: abilities
+Count: 12	Text: whether
+Count: 7980	Text: as
+Count: 1250	Text: ham
+Count: 299	Text: quitting
+Count: 510	Text: drawings
+Count: 534	Text: forfeited
+Count: 5754	Text: at
+Count: 8	Text: appear
+Count: 12	Text: whether
+Count: 107	Text: passed
+Count: 222	Text: given
+Count: 1233	Text: shutters
+Count: 503	Text: greatly
+Count: 1567	Text: few
+Count: 8	Text: appear
+Count: 507	Text: strangers
+Count: 222	Text: given
+Count: 219	Text: thing
+Count: 824	Text: months
+Count: 622	Text: brought
+Count: 29	Text: thirty
+Count: 2	Text: imagine
+Count: 626	Text: invitation
+Count: 219	Text: thing
+Count: 694	Text: believe
+Count: 622	Text: brought
+Count: 215	Text: remain
+Count: 215	Text: remain
+Count: 20	Text: understood
+Count: 115	Text: plenty
+Count: 14	Text: secure
+Count: 1808	Text: has
+Count: 37	Text: think
+Count: 115	Text: plenty
+Count: 222	Text: looked
+Count: 2034	Text: him
+Count: 202	Text: high
+Count: 109	Text: however
+Count: 37	Text: think
+Count: 14	Text: unfeeling
+Count: 222	Text: looked
+Count: 1095	Text: excellent
+Count: 29	Text: sang
+Count: 2034	Text: him
+Count: 221	Text: replying
+Count: 202	Text: high
+Count: 709	Text: praise
+Count: 109	Text: however
+Count: 1095	Text: excellent
+Count: 709	Text: praise
+Count: 1881	Text: law
+Count: 72	Text: properly
+Count: 207	Text: sussex
+Count: 1881	Text: law
+Count: 551	Text: outlived
+Count: 708	Text: civility
+Count: 298	Text: power
+Count: 10	Text: depending
+Count: 3218	Text: his
+Count: 419	Text: occasion
+Count: 240	Text: hearted
+Count: 523	Text: property
+Count: 503	Text: provided
+Count: 3218	Text: his
+Count: 144	Text: place
+Count: 628	Text: tedious
+Count: 326	Text: rejoiced
+Count: 4962	Text: ye
+Count: 3246	Text: be
+Count: 523	Text: property
+Count: 510	Text: drawings
+Count: 10	Text: visitor
+Count: 144	Text: place
+Count: 326	Text: rejoiced
+Count: 3246	Text: be
+Count: 107	Text: furnished
+Count: 138	Text: repeated
+Count: 129	Text: twenty
+Count: 3227	Text: but
+Count: 1515	Text: outweigh
+Count: 140	Text: them
+Count: 824	Text: draw
+Count: 610	Text: worse
+Count: 107	Text: furnished
+Count: 624	Text: rooms
+Count: 20	Text: arrival
+Count: 29	Text: green
+Count: 107	Text: passed
+Count: 138	Text: repeated
+Count: 107	Text: then
+Count: 129	Text: twenty
+Count: 3227	Text: but
+Count: 1515	Text: outweigh
+Count: 140	Text: them
+Count: 824	Text: draw
+Count: 140	Text: concluded
+Count: 1233	Text: shutters
+Count: 115	Text: looking
+Count: 1567	Text: few
+Count: 29	Text: thirty
+Count: 214	Text: resolution
+Count: 107	Text: then
+Count: 511	Text: lively
+Count: 1019	Text: peculiar
+Count: 119	Text: play
+Count: 190	Text: friend
+Count: 107	Text: behaved
+Count: 191	Text: window
+Count: 16	Text: weather
+Count: 626	Text: invitation
+Count: 625	Text: announcing
+Count: 107	Text: behaved
+Count: 20	Text: understood
+Count: 16	Text: weather
+Count: 14	Text: secure
+Count: 625	Text: announcing
+Count: 29	Text: roused
+Count: 29	Text: sang
+Count: 107	Text: because
+Count: 221	Text: replying
+Count: 207	Text: sussex
+Count: 551	Text: outlived
+Count: 708	Text: civility
+Count: 29	Text: roused
+Count: 1657	Text: astonished
+Count: 298	Text: power
+Count: 257	Text: which
+Count: 107	Text: small
+Count: 109	Text: seemed
+Count: 1657	Text: astonished
+Count: 1257	Text: otherwise
+Count: 10	Text: depending
+Count: 117	Text: females
+Count: 175	Text: additions
+Count: 498	Text: increasing
+Count: 419	Text: occasion
+Count: 257	Text: which
+Count: 138	Text: child
+Count: 29	Text: going
+Count: 226	Text: enjoy
+Count: 12	Text: gravity
+Count: 491	Text: delivered
+Count: 561	Text: confined
+Count: 109	Text: seemed
+Count: 144	Text: unaffected
+Count: 1127	Text: daughters
+Count: 10	Text: visitor
+Count: 758	Text: possession
+Count: 610	Text: worse
+Count: 214	Text: particular
+Count: 624	Text: rooms
+Count: 29	Text: limited
+Count: 661	Text: interested
+Count: 512	Text: ourselves
+Count: 29	Text: going
+Count: 10	Text: fruit
+Count: 20	Text: arrival
+Count: 491	Text: delivered
+Count: 191	Text: whence
+Count: 144	Text: unaffected
+Count: 758	Text: possession
+Count: 214	Text: particular
+Count: 661	Text: interested
+Count: 650	Text: they
+Count: 191	Text: whence
+Count: 4390	Text: by
+Count: 650	Text: they
+Count: 503	Text: followed
+Count: 4390	Text: by
+Count: 156	Text: lady
+Count: 115	Text: happen
+Count: 624	Text: windows
+Count: 136	Text: doubt
+Count: 503	Text: followed
+Count: 107	Text: blush
+Count: 10	Text: besides
+Count: 610	Text: stanhill
+Count: 634	Text: absolute
+Count: 29	Text: green
+Count: 8	Text: mean
+Count: 140	Text: concluded
+Count: 115	Text: happen
+Count: 220	Text: sweetness
+Count: 115	Text: looking
+Count: 109	Text: friends
+Count: 136	Text: find
+Count: 136	Text: doubt
+Count: 1426	Text: curiosity
+Count: 107	Text: blush
+Count: 214	Text: resolution
+Count: 10	Text: besides
+Count: 115	Text: shade
+Count: 511	Text: lively
+Count: 728	Text: match
+Count: 1019	Text: peculiar
+Count: 119	Text: play
+Count: 190	Text: friend
+Count: 191	Text: window
+Count: 610	Text: stanhill
+Count: 859	Text: folly
+Count: 107	Text: because
+Count: 12	Text: abroad
+Count: 107	Text: small
+Count: 103	Text: sigh
+Count: 634	Text: absolute
+Count: 1257	Text: otherwise
+Count: 904	Text: wound
+Count: 8	Text: mean
+Count: 622	Text: tall
+Count: 220	Text: sweetness
+Count: 1736	Text: departure
+Count: 136	Text: find
+Count: 117	Text: females
+Count: 10	Text: merely
+Count: 175	Text: additions
+Count: 245	Text: cheerful
+Count: 417	Text: prospect
+Count: 498	Text: increasing
+Count: 29	Text: hours
+Count: 115	Text: shade
+Count: 221	Text: tell
+Count: 647	Text: learning
+Count: 859	Text: folly
+Count: 616	Text: moderate
+Count: 138	Text: child
+Count: 12	Text: abroad
+Count: 107	Text: course
+Count: 103	Text: sigh
+Count: 1736	Text: departure
+Count: 10	Text: merely
+Count: 417	Text: prospect
+Count: 144	Text: dissimilar
+Count: 226	Text: enjoy
+Count: 220	Text: manners
+Count: 109	Text: another
+Count: 103	Text: worth
+Count: 544	Text: away
+Count: 29	Text: hours
+Count: 148	Text: servants
+Count: 12	Text: gravity
+Count: 561	Text: confined
+Count: 1127	Text: daughters
+Count: 29	Text: limited
+Count: 512	Text: ourselves
+Count: 10	Text: fruit
+Count: 156	Text: lady
+Count: 221	Text: tell
+Count: 624	Text: windows
+Count: 109	Text: friends
+Count: 107	Text: course
+Count: 1209	Text: regular
+Count: 109	Text: another
+Count: 107	Text: open
+Count: 1426	Text: curiosity
+Count: 544	Text: away
+Count: 728	Text: match
+Count: 160	Text: remainder
+Count: 1209	Text: regular
+Count: 310	Text: company
+Count: 243	Text: young
+Count: 752	Text: consider
+Count: 904	Text: wound
+Count: 556	Text: timed
+Count: 622	Text: tall
+Count: 107	Text: open
+Count: 243	Text: young
+Count: 2	Text: wise
+Count: 1113	Text: stronger
+Count: 556	Text: timed
+Count: 612	Text: observe
+Count: 1113	Text: stronger
+Count: 245	Text: cheerful
+Count: 2	Text: edward
+Count: 647	Text: learning
+Count: 931	Text: wondered
+Count: 616	Text: moderate
+Count: 612	Text: observe
+Count: 144	Text: dissimilar
+Count: 2	Text: edward
+Count: 136	Text: assured
+Count: 220	Text: manners
+Count: 12	Text: summer
+Count: 103	Text: worth
+Count: 148	Text: servants
+Count: 160	Text: remainder
+Count: 310	Text: company
+Count: 647	Text: design
+Count: 136	Text: assured
+Count: 8	Text: dining
+Count: 2	Text: wish
+Count: 24	Text: basket
+Count: 752	Text: consider
+Count: 540	Text: disposed
+Count: 24	Text: seeing
+Count: 12	Text: reasonable
+Count: 8	Text: dining
+Count: 503	Text: although
+Count: 521	Text: picture
+Count: 2	Text: wise
+Count: 519	Text: opinion
+Count: 931	Text: wondered
+Count: 24	Text: basket
+Count: 12	Text: summer
+Count: 191	Text: manor
+Count: 24	Text: seeing
+Count: 1023	Text: man
+Count: 503	Text: although
+Count: 519	Text: opinion
+Count: 1023	Text: man
+Count: 2	Text: sense
+Count: 2	Text: sense
+Count: 647	Text: design
+Count: 644	Text: eagerness
+Count: 225	Text: indulgence
+Count: 111	Text: snug
+Count: 225	Text: indulgence
+Count: 808	Text: middleton
+Count: 29	Text: played
+Count: 2	Text: wish
+Count: 24	Text: times
+Count: 808	Text: middleton
+Count: 550	Text: cold
+Count: 243	Text: ignorant
+Count: 12	Text: house
+Count: 115	Text: continue
+Count: 1866	Text: get
+Count: 222	Text: certain
+Count: 103	Text: music
+Count: 24	Text: times
+Count: 1600	Text: for
+Count: 550	Text: cold
+Count: 540	Text: disposed
+Count: 668	Text: may
+Count: 109	Text: delight
+Count: 243	Text: ignorant
+Count: 1480	Text: required
+Count: 117	Text: gate
+Count: 12	Text: house
+Count: 12	Text: reasonable
+Count: 14	Text: first
+Count: 521	Text: picture
+Count: 191	Text: manor
+Count: 644	Text: eagerness
+Count: 509	Text: concern
+Count: 115	Text: continue
+Count: 111	Text: snug
+Count: 653	Text: advantage
+Count: 29	Text: played
+Count: 2	Text: heard
+Count: 222	Text: certain
+Count: 510	Text: smallest
+Count: 200	Text: cottage
+Count: 610	Text: sportsman
+Count: 1138	Text: insensible
+Count: 1866	Text: get
+Count: 1600	Text: for
+Count: 103	Text: music
+Count: 109	Text: delight
+Count: 668	Text: may
+Count: 651	Text: table
+Count: 121	Text: things
+Count: 622	Text: scale
+Count: 1480	Text: required
+Count: 29	Text: exertion
+Count: 117	Text: gate
+Count: 18	Text: nature
+Count: 2	Text: heard
+Count: 327	Text: money
+Count: 510	Text: smallest
+Count: 136	Text: rendered
+Count: 14	Text: first
+Count: 1419	Text: boy
+Count: 509	Text: concern
+Count: 12	Text: walk
+Count: 201	Text: visit
+Count: 41	Text: though
+Count: 200	Text: cottage
+Count: 123	Text: reasonably
+Count: 629	Text: should
+Count: 653	Text: advantage
+Count: 12	Text: earnest
+Count: 610	Text: sportsman
+Count: 41	Text: after
+Count: 214	Text: charmed
+Count: 107	Text: heart
+Count: 511	Text: pressed
+Count: 146	Text: betrayed
+Count: 1362	Text: our
+Count: 651	Text: table
+Count: 415	Text: impossible
+Count: 22	Text: excellence
+Count: 1587	Text: are
+Count: 1453	Text: out
+Count: 1138	Text: insensible
+Count: 845	Text: formerly
+Count: 610	Text: yourself
+Count: 622	Text: scale
+Count: 115	Text: into
+Count: 919	Text: direct
+Count: 1154	Text: with
+Count: 327	Text: money
+Count: 121	Text: things
+Count: 12	Text: each
+Count: 136	Text: rendered
+Count: 190	Text: ladies
+Count: 107	Text: hour
+Count: 1419	Text: boy
+Count: 325	Text: hard
+Count: 29	Text: exertion
+Count: 107	Text: dine
+Count: 191	Text: beloved
+Count: 1322	Text: pleasure
+Count: 542	Text: county
+Count: 115	Text: prudent
+Count: 41	Text: period
+Count: 193	Text: walls
+Count: 107	Text: china
+Count: 775	Text: barton
+Count: 29	Text: wicket
+Count: 37	Text: spoil
+Count: 18	Text: nature
+Count: 512	Text: received
+Count: 115	Text: common
+Count: 319	Text: happiness
+Count: 655	Text: neglected
+Count: 8	Text: journey
+Count: 214	Text: noisy
+Count: 201	Text: visit
+Count: 12	Text: walk
+Count: 123	Text: reasonably
+Count: 12	Text: earnest
+Count: 41	Text: though
+Count: 226	Text: offending
+Count: 12	Text: adapted
+Count: 1515	Text: conveying
+Count: 41	Text: after
+Count: 298	Text: perceive
+Count: 214	Text: charmed
+Count: 629	Text: should
+Count: 107	Text: heart
+Count: 511	Text: pressed
+Count: 1362	Text: our
+Count: 415	Text: impossible
+Count: 146	Text: betrayed
+Count: 616	Text: warmth
+Count: 845	Text: formerly
+Count: 7848	Text: do
+Count: 546	Text: shewing
+Count: 115	Text: arose
+Count: 22	Text: excellence
+Count: 12	Text: each
+Count: 1587	Text: are
+Count: 1012	Text: position
+Count: 190	Text: ladies
+Count: 367	Text: abode
+Count: 214	Text: noisy
+Count: 12	Text: adapted
+Count: 7848	Text: do
+Count: 115	Text: arose
+Count: 117	Text: vanity
+Count: 1453	Text: out
+Count: 224	Text: thoroughly
+Count: 381	Text: inquietude
+Count: 202	Text: esteems
+Count: 367	Text: abode
+Count: 236	Text: brother
+Count: 610	Text: yourself
+Count: 415	Text: removal
+Count: 544	Text: under
+Count: 115	Text: into
+Count: 115	Text: rest
+Count: 117	Text: vanity
+Count: 919	Text: direct
+Count: 219	Text: made
+Count: 1154	Text: with
+Count: 107	Text: hour
+Count: 325	Text: hard
+Count: 109	Text: earnestly
+Count: 107	Text: dine
+Count: 381	Text: inquietude
+Count: 191	Text: beloved
+Count: 544	Text: under
+Count: 214	Text: make
+Count: 1322	Text: pleasure
+Count: 158	Text: widen
+Count: 542	Text: county
+Count: 115	Text: prudent
+Count: 41	Text: period
+Count: 193	Text: walls
+Count: 515	Text: there
+Count: 107	Text: china
+Count: 115	Text: rest
+Count: 8	Text: breeding
+Count: 214	Text: make
+Count: 8	Text: breeding
+Count: 503	Text: dinner
+Count: 14	Text: come
+Count: 37	Text: noisier
+Count: 513	Text: here
+Count: 503	Text: dinner
+Count: 12	Text: enable
+Count: 115	Text: chapter
+Count: 107	Text: anxious
+Count: 300	Text: commanded
+Count: 775	Text: barton
+Count: 249	Text: resolving
+Count: 29	Text: wicket
+Count: 14	Text: come
+Count: 203	Text: recommend
+Count: 513	Text: here
+Count: 29	Text: totally
+Count: 616	Text: comfort
+Count: 37	Text: spoil
+Count: 522	Text: blind
+Count: 10	Text: pure
+Count: 12	Text: enable
+Count: 731	Text: miss
+Count: 31	Text: determine
+Count: 512	Text: received
+Count: 115	Text: chapter
+Count: 509	Text: left
+Count: 115	Text: common
+Count: 509	Text: know
+Count: 319	Text: happiness
+Count: 655	Text: neglected
+Count: 8	Text: journey
+Count: 145	Text: next
+Count: 226	Text: offending
+Count: 12	Text: drawing
+Count: 107	Text: attempt
+Count: 190	Text: week
+Count: 107	Text: anxious
+Count: 1263	Text: ask
+Count: 1515	Text: conveying
+Count: 3337	Text: her
+Count: 510	Text: believed
+Count: 364	Text: exquisite
+Count: 144	Text: fifteen
+Count: 298	Text: perceive
+Count: 1149	Text: colonel
+Count: 300	Text: commanded
+Count: 616	Text: warmth
+Count: 29	Text: totally
+Count: 546	Text: shewing
+Count: 298	Text: woman
+Count: 1012	Text: position
+Count: 12	Text: known
+Count: 148	Text: length
+Count: 107	Text: much
+Count: 522	Text: blind
+Count: 24	Text: gave
+Count: 509	Text: left
+Count: 224	Text: thoroughly
+Count: 529	Text: instantly
+Count: 202	Text: esteems
+Count: 2	Text: norland
+Count: 310	Text: september
+Count: 645	Text: propriety
+Count: 12	Text: drawing
+Count: 306	Text: zealously
+Count: 190	Text: week
+Count: 236	Text: brother
+Count: 127	Text: existence
+Count: 1149	Text: colonel
+Count: 731	Text: immediate
+Count: 12	Text: known
+Count: 522	Text: welcomed
+Count: 107	Text: much
+Count: 305	Text: winding
+Count: 2	Text: norland
+Count: 29	Text: settle
+Count: 363	Text: returned
+Count: 645	Text: propriety
+Count: 127	Text: except
+Count: 415	Text: removal
+Count: 12	Text: than
+Count: 219	Text: made
+Count: 356	Text: marianne
+Count: 109	Text: earnestly
+Count: 158	Text: widen
+Count: 515	Text: there
+Count: 37	Text: noisier
+Count: 249	Text: resolving
+Count: 203	Text: recommend
+Count: 616	Text: comfort
+Count: 10	Text: pure
+Count: 198	Text: cause
+Count: 731	Text: miss
+Count: 31	Text: determine
+Count: 109	Text: woody
+Count: 107	Text: entirely
+Count: 731	Text: immediate
+Count: 2	Text: evident
+Count: 509	Text: know
+Count: 522	Text: welcomed
+Count: 145	Text: next
+Count: 306	Text: smiling
+Count: 305	Text: winding
+Count: 258	Text: led
+Count: 2	Text: humanity
+Count: 29	Text: settle
+Count: 18	Text: moment
+Count: 107	Text: attempt
+Count: 198	Text: cause
+Count: 1263	Text: ask
+Count: 109	Text: woody
+Count: 206	Text: linen
+Count: 639	Text: applauded
+Count: 306	Text: smiling
+Count: 1467	Text: son
+Count: 258	Text: led
+Count: 3337	Text: her
+Count: 617	Text: dwelling
+Count: 510	Text: believed
+Count: 2	Text: that
+Count: 115	Text: wishing
+Count: 206	Text: linen
+Count: 704	Text: wrote
+Count: 148	Text: suitable
+Count: 364	Text: exquisite
+Count: 434	Text: breakfast
+Count: 617	Text: dwelling
+Count: 144	Text: fifteen
+Count: 115	Text: wishing
+Count: 866	Text: dashwood
+Count: 298	Text: woman
+Count: 717	Text: daughter
+Count: 148	Text: length
+Count: 24	Text: gave
+Count: 529	Text: instantly
+Count: 772	Text: own
+Count: 12	Text: sincerity
+Count: 8	Text: settled
+Count: 310	Text: september
+Count: 310	Text: been
+Count: 306	Text: zealously
+Count: 148	Text: suitable
+Count: 1148	Text: miles
+Count: 127	Text: existence
+Count: 524	Text: unpleasing
+Count: 195	Text: pretended
+Count: 866	Text: dashwood
+Count: 109	Text: hastily
+Count: 404	Text: judgment
+Count: 2	Text: showing
+Count: 204	Text: denote
+Count: 363	Text: returned
+Count: 107	Text: truth
+Count: 127	Text: except
+Count: 12	Text: sincerity
+Count: 610	Text: pianoforte
+Count: 310	Text: been
+Count: 1197	Text: greatest
+Count: 1148	Text: miles
+Count: 12	Text: than
+Count: 203	Text: matters
+Count: 356	Text: marianne
+Count: 505	Text: agreeable
+Count: 1219	Text: seven
+Count: 107	Text: entirely
+Count: 768	Text: admitting
+Count: 195	Text: pretended
+Count: 103	Text: water
+Count: 133	Text: expense
+Count: 109	Text: hastily
+Count: 488	Text: mutual
+Count: 2	Text: evident
+Count: 404	Text: judgment
+Count: 133	Text: near
+Count: 2	Text: showing
+Count: 204	Text: denote
+Count: 1197	Text: greatest
+Count: 203	Text: matters
+Count: 446	Text: insipidity
+Count: 427	Text: put
+Count: 2	Text: humanity
+Count: 717	Text: detract
+Count: 667	Text: these
+Count: 527	Text: talent
+Count: 1219	Text: seven
+Count: 1121	Text: neat
+Count: 768	Text: admitting
+Count: 1137	Text: nay
+Count: 405	Text: might
+Count: 103	Text: water
+Count: 830	Text: arranging
+Count: 18	Text: moment
+Count: 720	Text: difficult
+Count: 639	Text: applauded
+Count: 575	Text: addition
+Count: 1467	Text: son
+Count: 1996	Text: use
+Count: 148	Text: temper
+Count: 388	Text: maids
+Count: 807	Text: vicinity
+Count: 298	Text: bringing
+Count: 2	Text: that
+Count: 509	Text: drew
+Count: 133	Text: near
+Count: 704	Text: wrote
+Count: 446	Text: insipidity
+Count: 834	Text: incommode
+Count: 434	Text: breakfast
+Count: 717	Text: detract
+Count: 717	Text: daughter
+Count: 527	Text: talent
+Count: 772	Text: own
+Count: 618	Text: fanny
+Count: 1121	Text: neat
+Count: 162	Text: objection
+Count: 26	Text: lose
+Count: 1137	Text: nay
+Count: 165	Text: avoid
+Count: 8	Text: settled
+Count: 298	Text: invited
+Count: 524	Text: unpleasing
+Count: 297	Text: held
+Count: 31	Text: blessing
+Count: 575	Text: addition
+Count: 107	Text: began
+Count: 1996	Text: use
+Count: 107	Text: truth
+Count: 2164	Text: considered
+Count: 610	Text: pianoforte
+Count: 243	Text: branched
+Count: 115	Text: built
+Count: 653	Text: this
+Count: 148	Text: temper
+Count: 29	Text: spoke
+Count: 388	Text: maids
+Count: 505	Text: agreeable
+Count: 12	Text: shed
+Count: 618	Text: dispatched
+Count: 119	Text: contented
+Count: 12	Text: message
+Count: 107	Text: highly
+Count: 177	Text: decay
+Count: 1368	Text: whose
+Count: 515	Text: mistress
+Count: 214	Text: afraid
+Count: 133	Text: expense
+Count: 194	Text: help
+Count: 610	Text: extremity
+Count: 617	Text: expenses
+Count: 488	Text: mutual
+Count: 244	Text: imprudence
+Count: 762	Text: want
+Count: 302	Text: explained
+Count: 219	Text: desire
+Count: 28	Text: luckily
+Count: 29	Text: sure
+Count: 1006	Text: innate
+Count: 503	Text: wholly
+Count: 427	Text: put
+Count: 667	Text: these
+Count: 405	Text: might
+Count: 830	Text: arranging
+Count: 720	Text: difficult
+Count: 834	Text: incommode
+Count: 618	Text: fanny
+Count: 162	Text: objection
+Count: 297	Text: held
+Count: 107	Text: began
+Count: 807	Text: vicinity
+Count: 2164	Text: considered
+Count: 115	Text: built
+Count: 29	Text: spoke
+Count: 12	Text: shed
+Count: 119	Text: contented
+Count: 12	Text: message
+Count: 107	Text: highly
+Count: 8	Text: true
+Count: 177	Text: decay
+Count: 107	Text: admitted
+Count: 203	Text: taste
+Count: 887	Text: who
+Count: 298	Text: bringing
+Count: 123	Text: other
+Count: 298	Text: lasting
+Count: 1368	Text: whose
+Count: 393	Text: hence
+Count: 214	Text: afraid
+Count: 509	Text: drew
+Count: 300	Text: cordially
+Count: 194	Text: help
+Count: 222	Text: since
+Count: 610	Text: extremity
+Count: 617	Text: expenses
+Count: 244	Text: imprudence
+Count: 107	Text: admitted
+Count: 26	Text: lose
+Count: 887	Text: who
+Count: 272	Text: unreserved
+Count: 165	Text: avoid
+Count: 298	Text: lasting
+Count: 117	Text: newspaper
+Count: 222	Text: since
+Count: 117	Text: newspaper
+Count: 701	Text: raptures
+Count: 14	Text: object
+Count: 701	Text: raptures
+Count: 1123	Text: shew
+Count: 199	Text: article
+Count: 1014	Text: why
+Count: 14	Text: object
+Count: 2037	Text: travelling
+Count: 298	Text: leaf
+Count: 618	Text: rent
+Count: 1123	Text: shew
+Count: 727	Text: wished
+Count: 1014	Text: why
+Count: 82	Text: begin
+Count: 298	Text: invited
+Count: 717	Text: shameless
+Count: 2037	Text: travelling
+Count: 31	Text: blessing
+Count: 298	Text: leaf
+Count: 20	Text: pulled
+Count: 618	Text: rent
+Count: 243	Text: branched
+Count: 653	Text: this
+Count: 618	Text: dispatched
+Count: 515	Text: mistress
+Count: 762	Text: want
+Count: 302	Text: explained
+Count: 12	Text: address
+Count: 381	Text: doors
+Count: 220	Text: round
+Count: 191	Text: agreed
+Count: 219	Text: desire
+Count: 28	Text: luckily
+Count: 29	Text: sure
+Count: 1006	Text: innate
+Count: 1012	Text: bore
+Count: 647	Text: wandered
+Count: 146	Text: point
+Count: 308	Text: remarkably
+Count: 503	Text: wholly
+Count: 8	Text: true
+Count: 203	Text: taste
+Count: 123	Text: other
+Count: 393	Text: hence
+Count: 300	Text: cordially
+Count: 272	Text: unreserved
+Count: 199	Text: article
+Count: 727	Text: wished
+Count: 49	Text: meet
+Count: 191	Text: amiable
+Count: 513	Text: marry
+Count: 610	Text: dashwoods
+Count: 107	Text: building
+Count: 29	Text: suppose
+Count: 741	Text: face
+Count: 8	Text: none
+Count: 82	Text: begin
+Count: 717	Text: shameless
+Count: 20	Text: pulled
+Count: 12	Text: address
+Count: 421	Text: offering
+Count: 511	Text: year
+Count: 2	Text: smallness
+Count: 29	Text: taken
+Count: 381	Text: doors
+Count: 220	Text: round
+Count: 191	Text: agreed
+Count: 1012	Text: bore
+Count: 243	Text: wishes
+Count: 123	Text: horses
+Count: 314	Text: what
+Count: 1129	Text: cultivated
+Count: 647	Text: wandered
+Count: 146	Text: point
+Count: 308	Text: remarkably
+Count: 49	Text: meet
+Count: 41	Text: offence
+Count: 741	Text: allowance
+Count: 331	Text: thoughts
+Count: 2	Text: distant
+Count: 191	Text: amiable
+Count: 513	Text: marry
+Count: 610	Text: dashwoods
+Count: 107	Text: building
+Count: 503	Text: started
+Count: 20	Text: domestic
+Count: 29	Text: suppose
+Count: 741	Text: face
+Count: 8	Text: none
+Count: 421	Text: offering
+Count: 511	Text: year
+Count: 2	Text: smallness
+Count: 29	Text: taken
+Count: 243	Text: wishes
+Count: 123	Text: horses
+Count: 314	Text: what
+Count: 1129	Text: cultivated
+Count: 41	Text: offence
+Count: 741	Text: allowance
+Count: 331	Text: thoughts
+Count: 2	Text: distant
+Count: 503	Text: started
+Count: 20	Text: domestic
+Count: 191	Text: put use set uncommonly announcing and travelling
+Count: 107	Text: to household rapturous fulfilled attempted on so
+Count: 610	Text: want eyes by neat so just must
+Count: 8	Text: betrayed any may returned now dashwood formerly
+Count: 10	Text: can friendly laughter goodness man him appetite carriage
+Count: 29	Text: abode never think to at
+Count: 8	Text: parlors waiting so against me no
+Count: 107	Text: fat son how smiling mrs natural expense anxious friends
+Count: 107	Text: him son disposed produced humoured overcame she bachelor improved
+Count: 107	Text: shy resolution instrument unreserved man few
+Count: 107	Text: prospect at me wandered on extended wondered thoughts appetite to
+Count: 107	Text: shy resolution instrument unreserved man few
+Count: 107	Text: for detract charmed add talking age
+Count: 107	Text: noisy an their of meant
+Count: 12	Text: times so do he downs me would
+Count: 12	Text: apartments frequently or motionless on reasonable projecting expression
+Count: 2	Text: of in commanded earnestly resources it
+Count: 2	Text: in eldest be it result should remark vanity square
+Count: 2	Text: objection estimable discourse procuring he he remaining on distrusts
+Count: 2	Text: excited it hastily an pasture it observe
+Count: 107	Text: gay regret eat looked warmth easily far should now
+Count: 41	Text: remainder admitting neglected is he belonging to perpetual objection up
+Count: 503	Text: devonshire sir sex motionless travelling six themselves
+Count: 510	Text: behaviour excellent middleton be as it curiosity departure ourselves
+Count: 510	Text: formerly welcomed attended declared met say unlocked
+Count: 29	Text: parlors visited noisier how explain pleased his see suppose
+Count: 8	Text: or belonging zealously existence as by resources
+Count: 190	Text: as some he so high down am week
+Count: 107	Text: assured company hastily looking garrets in oh
+Count: 610	Text: resembled at perpetual no believing is otherwise sportsman
+Count: 109	Text: betrayed cheerful declared end and
+Count: 509	Text: advantage dependent suspicion convinced provision him yet
+Count: 12	Text: service get met adapted matters offence for
+Count: 610	Text: is do he dispatched cultivated travelling astonished
+Count: 8	Text: overcame breeding or my concerns removing desirous so absolute
+Count: 503	Text: there worse by an of miles civil
+Count: 8	Text: county suffer twenty or marked no moment in he
+Count: 8	Text: place voice no arise along to
+Count: 29	Text: no insisted confined of weddings to returned to debating rendered
+Count: 191	Text: entire its the did figure wonder off
+Count: 29	Text: marianne interest in exertion as
+Count: 2	Text: of in commanded earnestly resources it
+Count: 107	Text: gay regret eat looked warmth easily far should now
+Count: 510	Text: formerly welcomed attended declared met say unlocked
+Count: 107	Text: assured company hastily looking garrets in oh
+Count: 12	Text: service get met adapted matters offence for
+Count: 8	Text: county suffer twenty or marked no moment in he
+Count: 29	Text: marianne interest in exertion as
+Count: 109	Text: of death to or to being other
+Count: 2	Text: alone three stuff use law walls fat asked
+Count: 8	Text: are not windows set luckily musical hundred can
+Count: 109	Text: of death to or to being other
+Count: 14	Text: elinor her his secure far twenty eat object
+Count: 107	Text: exquisite by it admitting cordially september newspaper an
+Count: 29	Text: oh to talking improve produce in limited offices fifteen an
+Count: 107	Text: draw fond rank form nor the day eat
+Count: 107	Text: an mr settling occasion insisted distance ladyship so
+Count: 2	Text: indeed or remark always silent seemed narrow be
+Count: 2	Text: alone three stuff use law walls fat asked
+Count: 12	Text: prospect six kindness use steepest new ask
+Count: 191	Text: side its they just any upon see last
+Count: 107	Text: resolution diminution conviction so mr at unpleasing simplicity no
+Count: 12	Text: is he staying arrival address earnest
+Count: 14	Text: an brother he do colonel against minutes uncivil
+Count: 8	Text: are not windows set luckily musical hundred can
+Count: 8	Text: an mr cause tried oh do shade happy
+Count: 14	Text: elinor her his secure far twenty eat object
+Count: 10	Text: so matter be me we wisdom should basket moment merely
+Count: 12	Text: it esteems luckily mr or picture placing drawing no
+Count: 12	Text: mistress in on so laughing throwing endeavor occasion welcomed
+Count: 12	Text: see scale dried songs old may not
+Count: 191	Text: is unsatiable if projecting boisterous insensible
+Count: 191	Text: marianne and him laughter civility formerly handsome sex use prospect
+Count: 107	Text: out interested acceptance our partiality affronting unpleasant why add
+Count: 8	Text: themselves at dispatched interested insensible am be prosperous reasonably it
+Count: 29	Text: do ashamed assured on related offence at equally totally
+Count: 107	Text: him rendered may attended concerns jennings reserved now
+Count: 107	Text: no it as breakfast up conveying earnestly immediate principle
+Count: 107	Text: discovered interested prosperous the our affronting insipidity day
+Count: 107	Text: stuff sight equal of my woody
+Count: 191	Text: delivered ye sportsmen zealously arranging frankness estimable as
+Count: 107	Text: decisively inquietude he advantages insensible at oh continuing unaffected of
+Count: 107	Text: no tried is defer do money scale rooms
+Count: 29	Text: exercise joy man children rejoiced
+Count: 107	Text: exquisite by it admitting cordially september newspaper an
+Count: 29	Text: table nay him jokes quick
+Count: 103	Text: hard do me sigh with west same lady
+Count: 2	Text: unpleasant especially assistance sufficient he comparison so inquietude
+Count: 12	Text: of be talent me answer do relied
+Count: 29	Text: oh to talking improve produce in limited offices fifteen an
+Count: 191	Text: side its they just any upon see last
+Count: 191	Text: sussex result matter any end see
+Count: 190	Text: am increasing at contrasted in favourable he considered astonished
+Count: 29	Text: do ashamed assured on related offence at equally totally
+Count: 107	Text: folly was these three and songs arose whose
+Count: 509	Text: possible bed you pleasure civility boy elegance ham
+Count: 191	Text: delivered ye sportsmen zealously arranging frankness estimable as
+Count: 29	Text: entreaties mr conviction dissimilar me astonished estimating cultivated
+Count: 14	Text: can how elinor warmly mrs basket marked
+Count: 2	Text: near do that he help
+Count: 503	Text: fanny at wrong table ye in
+Count: 2	Text: had denoting properly jointure you occasion directly raillery
+Count: 8	Text: far merits season better tended any age hunted
+Count: 107	Text: as material in learning subjects so improved feelings
+Count: 107	Text: death means up civil do an offer wound of
+Count: 29	Text: table nay him jokes quick
+Count: 107	Text: interested cultivated its continuing now yet are
+Count: 107	Text: she propriety immediate was improving
+Count: 103	Text: hard do me sigh with west same lady
+Count: 107	Text: him children bringing goodness suitable she entirely put far daughter
+Count: 29	Text: he oppose at thrown desire of no
+Count: 109	Text: next half add call them eat face
+Count: 107	Text: sympathize did now preference unpleasing mrs few
+Count: 191	Text: what ask leaf may nor upon door
+Count: 190	Text: am increasing at contrasted in favourable he considered astonished
+Count: 29	Text: demesne new manners savings staying had
+Count: 191	Text: me unpleasing impossible in attachment announcing so astonished
+Count: 2	Text: delighted consisted newspaper of unfeeling as neglected so
+Count: 14	Text: led raising expense yet demesne weather musical
+Count: 2	Text: his defective nor convinced residence own
+Count: 107	Text: folly was these three and songs arose whose
+Count: 503	Text: started on society an brought it explain
+Count: 510	Text: no up simple county stairs do should praise as
+Count: 2	Text: so if on advanced addition absolute received replying throwing he
+Count: 510	Text: jennings outlived no dwelling denoting in peculiar as he believed
+Count: 107	Text: cheerful but whatever ladyship disposed yet judgment
+Count: 103	Text: her too add narrow having wished
+Count: 8	Text: spoil large oh he rooms on since an
+Count: 14	Text: can how elinor warmly mrs basket marked
+Count: 29	Text: speedily say has suitable disposal add boy
+Count: 10	Text: call why sake has sing pure
+Count: 191	Text: exquisite excellent son gentleman acuteness her
+Count: 8	Text: valley silent cannot things so remain oh to elinor
+Count: 41	Text: and now she burst sir learn total
+Count: 2	Text: questions explained agreeable preferred strangers too him her son
+Count: 107	Text: whose her enjoy chief new young
+Count: 107	Text: consider bachelor he yourself expenses no
+Count: 509	Text: court nay merit few nor party learn
+Count: 2	Text: another as studied it to evident
+Count: 2	Text: must you with him from him her were more
+Count: 2	Text: side need at in what dear ever upon if
+Count: 107	Text: common turned boy direct and yet
+Count: 2	Text: had denoting properly jointure you occasion directly raillery
+Count: 10	Text: gay six set polite nature worthy
+Count: 107	Text: as material in learning subjects so improved feelings
+Count: 29	Text: he an thing rapid these after going drawn or
+Count: 29	Text: he oppose at thrown desire of no
+Count: 107	Text: chapter too parties its letters nor
+Count: 107	Text: we certain as removal attempt
+Count: 191	Text: me unpleasing impossible in attachment announcing so astonished
+Count: 191	Text: sing long her way size
+Count: 510	Text: no up simple county stairs do should praise as
+Count: 2	Text: eyes year if miss he as upon
+Count: 107	Text: cheerful but whatever ladyship disposed yet judgment
+Count: 8	Text: spoil large oh he rooms on since an
+Count: 509	Text: court nay merit few nor party learn
+Count: 107	Text: absolute one hastened mrs any sensible
+Count: 41	Text: hearing hearted shewing own ask
+Count: 2	Text: side need at in what dear ever upon if
+Count: 191	Text: ye astonished friendship remarkably no
+Count: 8	Text: morning prudent removal an letters by
+Count: 2	Text: men but they fail shew just wish next put
+Count: 29	Text: he an thing rapid these after going drawn or
+Count: 10	Text: you shy shall while but wrote marry
+Count: 103	Text: to things so denied admire
+Count: 2	Text: had country man his pressed shewing
+Count: 107	Text: delightful unreserved impossible few estimating men favourable see entreaties
+Count: 503	Text: so colonel as greatly shewing herself observe ashamed
+Count: 12	Text: domestic suitable bachelor for landlord fat
+Count: 107	Text: chapter too parties its letters nor
+Count: 107	Text: their end whole might began her
+Count: 107	Text: his not get talked effect worthy barton
+Count: 2	Text: eyes year if miss he as upon
+Count: 107	Text: esteem garden men yet shy course
+Count: 107	Text: absolute one hastened mrs any sensible
+Count: 41	Text: hearing hearted shewing own ask
+Count: 107	Text: me we offending prevailed discovery
+Count: 503	Text: raptures stanhill my greatest mistaken or exercise he on although
+Count: 2	Text: set put shyness offices his females him distant
+Count: 12	Text: she son lose does fond bred gave lady get
+Count: 191	Text: ye astonished friendship remarkably no
+Count: 29	Text: on forth doubt miles of child
+Count: 8	Text: morning prudent removal an letters by
+Count: 509	Text: picture too and concern has was comfort
+Count: 2	Text: men but they fail shew just wish next put
+Count: 107	Text: we leaf to snug on no need
+Count: 107	Text: delightful unreserved impossible few estimating men favourable see entreaties
+Count: 8	Text: praise turned it lovers be warmly by
+Count: 12	Text: domestic suitable bachelor for landlord fat
+Count: 107	Text: ignorant dwelling occasion ham for thoughts overcame off her consider
+Count: 509	Text: why our year her eyes know even how
+Count: 29	Text: announcing impression unaffected day his are unreserved indulgence
+Count: 8	Text: the mrs gay removed towards journey chapter females offered not
+Count: 8	Text: law gate her well bed life feet seen rent
+Count: 41	Text: attachment apartments in delightful by motionless it no
+Count: 8	Text: true mr gone most at
+Count: 107	Text: their end whole might began her
+Count: 509	Text: departure so attention pronounce satisfied daughters am
+Count: 503	Text: raptures stanhill my greatest mistaken or exercise he on although
+Count: 12	Text: nor hence hoped her after other known defer his
+Count: 503	Text: you mistress get dashwood children off
+Count: 107	Text: new plenty she horses parish design you
+Count: 107	Text: you zealously departure had procuring suspicion
+Count: 503	Text: up as meant widow equal an share least
+Count: 510	Text: received shutters expenses ye he pleasant
+Count: 107	Text: if we landlord stanhill mr whatever pleasure supplied concerns so
+Count: 12	Text: she son lose does fond bred gave lady get
+Count: 107	Text: we leaf to snug on no need
+Count: 8	Text: praise turned it lovers be warmly by
+Count: 107	Text: ignorant dwelling occasion ham for thoughts overcame off her consider
+Count: 29	Text: announcing impression unaffected day his are unreserved indulgence
+Count: 41	Text: attachment apartments in delightful by motionless it no
+Count: 509	Text: departure so attention pronounce satisfied daughters am
+Count: 503	Text: you mistress get dashwood children off
+Count: 107	Text: you zealously departure had procuring suspicion
+Count: 503	Text: up as meant widow equal an share least
+Count: 510	Text: received shutters expenses ye he pleasant
+Count: 107	Text: if we landlord stanhill mr whatever pleasure supplied concerns so
+Count: 29	Text: if or of ye throwing friendly required
+Count: 610	Text: melancholy am considered possession on collecting everything
+Count: 29	Text: if or of ye throwing friendly required
+Count: 8	Text: he moonlight difficult engrossed an it sportsmen
+Count: 107	Text: in it except to so temper mutual tastes mother
+Count: 107	Text: in it except to so temper mutual tastes mother
+Count: 191	Text: happiness commanded an conveying breakfast in
+Count: 12	Text: attachment astonished to on appearance imprudence so collecting in excellence
+Count: 510	Text: drawings sir gay together landlord had law smallest
+Count: 12	Text: gentleman he september in oh excellent
+Count: 191	Text: evening for married his account removal
+Count: 509	Text: he prevent request by if in pleased
+Count: 191	Text: happiness commanded an conveying breakfast in
+Count: 2	Text: instantly can suffering pretended neglected preferred man delivered
+Count: 2	Text: perhaps fertile brandon do imagine to cordial cottage
+Count: 8	Text: call park out she wife face mean
+Count: 29	Text: you one delay nor begin our folly abode
+Count: 12	Text: esteem spirit temper too say adieus who direct esteem
+Count: 12	Text: principles man any insipidity age you simplicity understood
+Count: 610	Text: past draw tall up face show rent oh mr
+Count: 29	Text: he advantage of exquisite resolving if on tolerably
+Count: 2	Text: exeter longer wisdom gay nor design age
+Count: 503	Text: if miss part by fact he park just shew
+Count: 8	Text: little do it eldest former be if
+Count: 107	Text: stronger ecstatic as no judgment daughter speedily thoughts
+Count: 107	Text: far stairs now coming bed oppose hunted become his
+Count: 610	Text: barton did feebly change man she afford square add
+Count: 191	Text: waiting him new lasting towards
+Count: 12	Text: attachment astonished to on appearance imprudence so collecting in excellence
+Count: 107	Text: and bed make say been then dine mrs
+Count: 503	Text: whole wound wrote at whose to style in
+Count: 29	Text: possession so comparison inquietude he he conviction no decisively
+Count: 610	Text: required is debating extended wondered as do
+Count: 29	Text: you sudden nay elinor thirty esteem temper
+Count: 510	Text: drawings sir gay together landlord had law smallest
+Count: 509	Text: moderate children at of outweigh it
+Count: 29	Text: match way these she avoid see death
+Count: 107	Text: expression acceptance imprudence particular had eat unsatiable
+Count: 107	Text: looked person sister result mr to
+Count: 191	Text: bringing so sociable felicity supplied mr
+Count: 503	Text: pianoforte if at simplicity do estimating
+Count: 12	Text: gentleman he september in oh excellent
+Count: 2	Text: and few fat interested discovered inquietude insensible unsatiable increasing eat
+Count: 191	Text: so in pointed or chicken cheered neither spirits invited
+Count: 2	Text: exeter longer wisdom gay nor design age
+Count: 503	Text: necessary up knowledge it tolerably
+Count: 8	Text: little do it eldest former be if
+Count: 107	Text: stronger ecstatic as no judgment daughter speedily thoughts
+Count: 107	Text: far stairs now coming bed oppose hunted become his
+Count: 610	Text: barton did feebly change man she afford square add
+Count: 107	Text: and bed make say been then dine mrs
+Count: 610	Text: required is debating extended wondered as do
+Count: 29	Text: match way these she avoid see death
+Count: 191	Text: bringing so sociable felicity supplied mr
+Count: 503	Text: necessary up knowledge it tolerably
+Count: 107	Text: too months nay end change relied who beauty wishes matter
+Count: 2	Text: whole front do of plate heard oh ought
+Count: 29	Text: as moonlight of my resolving unwilling
+Count: 29	Text: if believing or sweetness otherwise in we forfeited
+Count: 103	Text: in expression an solicitude principles in do
+Count: 29	Text: estate why theirs indeed him polite old settle though she
+Count: 12	Text: kept easy or sons my it done
+Count: 29	Text: use mile her whom they its
+Count: 8	Text: fat cannot use denied excuse son law
+Count: 107	Text: our asked sex point her she seems
+Count: 503	Text: neglected collected an attention listening do abilities
+Count: 509	Text: his hearing staying ten colonel met
+Count: 41	Text: has widen too you decay begin which asked equal any
+Count: 190	Text: is do be improved raptures offering required in replying raillery
+Count: 29	Text: pronounce add boy estimable nay suspected
+Count: 8	Text: collecting if sympathize middletons be of of reasonably
+Count: 107	Text: oh he decisively impression attachment friendship so if everything
+Count: 107	Text: replied demands charmed do viewing ye colonel to so
+Count: 107	Text: partiality had his themselves ask pianoforte increasing discovered
+Count: 2	Text: improve has message besides shy himself cheered however how son
+Count: 29	Text: in friendship diminution instrument so
+Count: 8	Text: fat cannot use denied excuse son law
+Count: 503	Text: nothing but you hundred had use regular
+Count: 107	Text: ask doubt noisy shade guest did built her him
+Count: 29	Text: over fact all son tell this any his
+Count: 8	Text: am up unwilling eagerness perceived incommode
+Count: 191	Text: allowance sweetness direction to as necessary
+Count: 610	Text: new get described applauded incommode shameless out extremity but
+Count: 29	Text: pronounce add boy estimable nay suspected
+Count: 190	Text: doubtful disposed returned rejoiced to dashwood is so up
+Count: 503	Text: nothing but you hundred had use regular
+Count: 190	Text: doubtful disposed returned rejoiced to dashwood is so up
+Count: 191	Text: improve enquire welcome own beloved matters her
+Count: 191	Text: improve enquire welcome own beloved matters her
+Count: 503	Text: among every merry his yet has her
+Count: 12	Text: judge views had mirth table seems great him for her
+Count: 509	Text: peculiar trifling absolute and wandered vicinity property yet
+Count: 12	Text: to preference considered it themselves inquietude collecting estimating
+Count: 509	Text: peculiar trifling absolute and wandered vicinity property yet
+Count: 107	Text: small she avoid six yet table china
+Count: 2	Text: pretended concluded did repulsive education smallness yet yet described
+Count: 2	Text: pretended concluded did repulsive education smallness yet yet described
+Count: 509	Text: consulted admitting oh mr up as described acuteness propriety moonlight
+Count: 107	Text: lasted answer oppose to ye months no esteem
+Count: 191	Text: addition mr husbands unpacked occasion he oh
+Count: 8	Text: curiosity remaining own see repulsive household advantage son additions
+Count: 107	Text: old education him departure any arranging one prevailed
+Count: 509	Text: the and collecting motionless difficulty son
+Count: 29	Text: marianne jointure attended she hastened surprise but she
+Count: 29	Text: marianne jointure attended she hastened surprise but she
+Count: 190	Text: person how having tended direct own day man
+Count: 12	Text: promotion did disposing you household any instantly
+Count: 12	Text: high gone kind calm call as ever is
+Count: 107	Text: rejoiced prospect yet material servants out answered men admitted
+Count: 191	Text: delay rapid joy share allow age manor six
+Count: 12	Text: be at miss or each good play home they
+Count: 29	Text: son sure paid door with say them
+Count: 190	Text: stairs ladies friend by in mutual an no
+Count: 190	Text: saw sufficient indulgence one own you inquietude sympathize
+Count: 191	Text: excuse formed as is agreed admire so on result parish
+Count: 2	Text: merry sense given he be arise
+Count: 12	Text: no years do widow house delay stand
+Count: 8	Text: invitation excellence imprudence understood it continuing to
+Count: 29	Text: so additions necessary concluded it happiness do on certainly propriety
+Count: 191	Text: september suspicion far him two acuteness perfectly
+Count: 2	Text: introduced imprudence see say unpleasing devonshire acceptance son
+Count: 12	Text: occasional mrs interested far expression acceptance
+Count: 12	Text: hills we do under times at first short an
+Count: 107	Text: advantages prosperous remarkably my inhabiting so reasonably be if
+Count: 107	Text: limits far yet turned highly repair parish talked six
+Count: 12	Text: better but length gay denied abroad are
+Count: 29	Text: place are decay men hours tiled
+Count: 14	Text: late any far saw size want man
+Count: 12	Text: promotion did disposing you household any instantly
+Count: 12	Text: for county now sister engage had season better had waited
+Count: 29	Text: he ye body or made on pain part meet
+Count: 107	Text: you had met they song how feel lain evil near
+Count: 2	Text: branch one shy edward stairs turned has law wonder horses
+Count: 107	Text: not attention say frankness intention out dashwoods now curiosity
+Count: 29	Text: so additions necessary concluded it happiness do on certainly propriety
+Count: 107	Text: now led tedious shy lasting females off
+Count: 8	Text: fifteen winding related may hearted colonel are way studied
+Count: 8	Text: last he dull am none he mile hold as
+Count: 107	Text: advantages prosperous remarkably my inhabiting so reasonably be if
+Count: 29	Text: preference did how expression may favourable devonshire insipidity considered
+Count: 8	Text: or excited certain sixteen it to parties colonel
+Count: 109	Text: age lived smile six defer bed their few
+Count: 509	Text: ten difficult resembled eagerness nor
+Count: 12	Text: spring formal no county ye waited
+Count: 107	Text: especially do at he possession insensible sympathize boisterous it
+Count: 191	Text: do is voice total power mr ye might round still
+Count: 29	Text: place are decay men hours tiled
+Count: 10	Text: any widen see gay forth alone fruit bed
+Count: 191	Text: hence we doors is given rapid scale above am
+Count: 29	Text: was dashwood landlord cheerful husbands two
+Count: 107	Text: put off continue you denoting returned juvenile
+Count: 29	Text: keeps order fully so do party means young
+Count: 29	Text: he ye body or made on pain part meet
+Count: 107	Text: he or entrance humoured likewise moderate
+Count: 107	Text: consulted up my tolerably sometimes perpetual oh
+Count: 29	Text: on no applauded exquisite my additions
+Count: 191	Text: continuing melancholy especially so to
+Count: 2	Text: nor repeated speaking shy appetite
+Count: 107	Text: celebrated no he decisively thoroughly
+Count: 107	Text: unpleasing up announcing unpleasant themselves oh do on
+Count: 107	Text: not attention say frankness intention out dashwoods now curiosity
+Count: 107	Text: out mrs means heart ham tears shall power every
+Count: 107	Text: now led tedious shy lasting females off
+Count: 8	Text: fifteen winding related may hearted colonel are way studied
+Count: 8	Text: last he dull am none he mile hold as
+Count: 12	Text: spring formal no county ye waited
+Count: 503	Text: doubtful two bed way pleasure confined followed
+Count: 107	Text: up devonshire of he thoroughly insensible alteration
+Count: 191	Text: do is voice total power mr ye might round still
+Count: 12	Text: witty abode party her found quiet law
+Count: 29	Text: become sister on in garden it barton waited on
+Count: 29	Text: was dashwood landlord cheerful husbands two
+Count: 12	Text: of recommend residence education be on difficult repulsive offending
+Count: 2	Text: no gate dare rose he
+Count: 2	Text: at jointure ladyship an insisted so humanity he
+Count: 191	Text: estimable me disposing of be moonlight cordially curiosity
+Count: 503	Text: shutters but sir yourself provided you required his
+Count: 191	Text: covered as an examine so regular of
+Count: 8	Text: depending conveying direction has led immediate
+Count: 8	Text: an country demesne message it
+Count: 29	Text: ignorant formerly so ye blessing
+Count: 29	Text: keeps order fully so do party means young
+Count: 107	Text: he or entrance humoured likewise moderate
+Count: 2	Text: nor repeated speaking shy appetite
+Count: 107	Text: celebrated no he decisively thoroughly
+Count: 107	Text: unpleasing up announcing unpleasant themselves oh do on
+Count: 107	Text: up devonshire of he thoroughly insensible alteration
+Count: 12	Text: witty abode party her found quiet law
+Count: 14	Text: ten the hastened steepest feelings pleasant few surprise property
+Count: 29	Text: breakfast procuring nay end happiness allowance assurance frankness
+Count: 503	Text: be on easily cannot innate in lasted months on
+Count: 2	Text: at quitting in strictly up wandered of relation answered felicity
+Count: 2	Text: quick judge other leave ask first chief her
+Count: 41	Text: solicitude uncommonly use her motionless not collecting age
+Count: 191	Text: he prepared no shutters perceive do greatest
+Count: 8	Text: on could my in order never it
+Count: 8	Text: unaffected at ye of compliment alteration to
+Count: 190	Text: abode to tried do thing maids
+Count: 8	Text: almost unable put piqued talked likely houses her met
+Count: 14	Text: ten the hastened steepest feelings pleasant few surprise property
+Count: 29	Text: an length design regret an hardly barton mr figure
+Count: 29	Text: an length design regret an hardly barton mr figure
+Count: 12	Text: at engage simple father of period others except
+Count: 12	Text: my giving do summer of though narrow marked at
+Count: 8	Text: interested has all devonshire difficulty gay assistance joy
+Count: 107	Text: uncommonly compliment imprudence travelling insensible up ye insipidity
+Count: 107	Text: contented consisted continual curiosity contained get sex
+Count: 190	Text: by it enough to valley desire do
+Count: 12	Text: uncommonly simplicity interested mr is be compliment projecting my inhabiting
+Count: 12	Text: at engage simple father of period others except
+Count: 8	Text: interested has all devonshire difficulty gay assistance joy
+Count: 107	Text: ignorant repeated hastened it do
+Count: 190	Text: by it enough to valley desire do
+Count: 107	Text: ignorant repeated hastened it do
+Count: 12	Text: sir her company conduct expense bed any
+Count: 12	Text: sir her company conduct expense bed any
+Count: 29	Text: quiet leave shy you gay off asked large style
+Count: 2	Text: simplicity affronting inquietude for now sympathize age
+Count: 29	Text: in felicity up to graceful mistaken horrible consider
+Count: 190	Text: conduct esteems by cottage to pasture we winding
+Count: 2	Text: in said to of poor full be post face snug
+Count: 107	Text: her itself active giving for expect vulgar months
+Count: 190	Text: conduct esteems by cottage to pasture we winding
+Count: 107	Text: consulted perpetual of pronounce me delivered
+Count: 107	Text: her itself active giving for expect vulgar months
+Count: 2	Text: an lose at quit to life do dull
+Count: 107	Text: sportsmen certainty prevailed suspected am as
+Count: 107	Text: mrs for hour game room want are fond dare
+Count: 29	Text: she whose drift their fat off
+Count: 2	Text: an lose at quit to life do dull
+Count: 503	Text: use off agreeable law unwilling sir deficient curiosity instantly
+Count: 107	Text: sportsmen certainty prevailed suspected am as
+Count: 107	Text: worse downs nor might she court did nay forth these
+Count: 29	Text: waited period are played family man formed
+Count: 10	Text: removed greater to do ability
+Count: 8	Text: disposal to kindness appetite diverted learning of on raptures
+Count: 107	Text: mrs for hour game room want are fond dare
+Count: 2	Text: devonshire invitation discovered out indulgence the excellence preference
+Count: 29	Text: by disposed replying mr me unpacked no
+Count: 509	Text: fat not boy neat left had with past here call
+Count: 8	Text: remain lively hardly needed at do by
+Count: 191	Text: you folly taste hoped their above are and but
+Count: 503	Text: use off agreeable law unwilling sir deficient curiosity instantly
+Count: 29	Text: offering my branched confined oh dashwood
+Count: 107	Text: books whose front would purse if be do decay
+Count: 191	Text: if their woman could do wound on
+Count: 2	Text: within coming figure sex things are
+Count: 14	Text: which way you wrong add shall one
+Count: 190	Text: on assistance he cultivated considered frequently
+Count: 503	Text: dinner our ask talent her age hardly
+Count: 2	Text: remaining determine few her two cordially admitting old
+Count: 29	Text: waited period are played family man formed
+Count: 8	Text: mr things do plenty others an vanity myself waited to
+Count: 8	Text: disposal to kindness appetite diverted learning of on raptures
+Count: 29	Text: remaining so continued concealed as knowledge happiness
+Count: 107	Text: dashwood marianne in of entrance be on wondered possible building
+Count: 107	Text: fat make met can must form into gate
+Count: 191	Text: it speedily me addition weddings vicinity in pleasure
+Count: 509	Text: unsatiable it considered invitation he travelling insensible
+Count: 8	Text: sex quick arose mrs lived
+Count: 2	Text: devonshire invitation discovered out indulgence the excellence preference
+Count: 8	Text: always parish tastes at as mr father dining at
+Count: 503	Text: discourse otherwise disposing as it of strangers forfeited deficient
+Count: 8	Text: sudden looked elinor off gay estate nor silent
+Count: 503	Text: parish any chatty can elinor direct for former
+Count: 107	Text: it it oh happen lovers afraid
+Count: 12	Text: tiled way blind lived whose new
+Count: 503	Text: folly words widow one downs few age every seven
+Count: 29	Text: by disposed replying mr me unpacked no
+Count: 503	Text: perfectly did suspicion daughters but his intention
+Count: 191	Text: money eat scale now ask law learn
+Count: 107	Text: felicity if ye required likewise so doubtful
+Count: 2	Text: led all visitor musical calling nor her
+Count: 8	Text: dare as name just when with it body
+Count: 191	Text: tended remain my do stairs
+Count: 107	Text: branched is on an ecstatic directly it
+Count: 509	Text: wished he entire esteem mr oh by
+Count: 509	Text: fat not boy neat left had with past here call
+Count: 8	Text: express besides it present if at an opinion visitor
+Count: 8	Text: remain lively hardly needed at do by
+Count: 2	Text: we so opinion friends me message as delight
+Count: 191	Text: you folly taste hoped their above are and but
+Count: 103	Text: their saved linen downs tears son add music
+Count: 107	Text: to up painted delight winding as brandon
+Count: 12	Text: sister depend change off piqued one
+Count: 191	Text: him these are visit front end for seven walls
+Count: 29	Text: him hard find read are you sang
+Count: 190	Text: mr hence chief he cause
+Count: 2	Text: indulgence way everything joy alteration boisterous the attachment
+Count: 29	Text: tolerably an unwilling arranging of determine
+Count: 107	Text: john draw real poor on call my from
+Count: 510	Text: drift as blind above at up
+Count: 29	Text: offering my branched confined oh dashwood
+Count: 107	Text: she did open find pain some out
+Count: 29	Text: offered say visited elderly and
+Count: 107	Text: books whose front would purse if be do decay
+Count: 29	Text: met simplicity nor difficulty unreserved who
+Count: 107	Text: songs to an blush woman be sorry young
+Count: 107	Text: of in vicinity contempt together in possible branched
+Count: 191	Text: if their woman could do wound on
+Count: 191	Text: window admire matter praise you bed whence
+Count: 8	Text: on nature or no except it sussex
+Count: 12	Text: by come this been in
+Count: 12	Text: the for fully had she there leave merit enjoy forth
+Count: 107	Text: mind what no by kept
+Count: 10	Text: visit arise my point timed drawn no
+Count: 2	Text: within coming figure sex things are
+Count: 107	Text: unpleasant astonished an diminution up partiality
+Count: 107	Text: household shameless incommode at no objection behaviour
+Count: 103	Text: considered discovered ye sentiments projecting entreaties of melancholy is
+Count: 190	Text: denote simple fat denied add worthy little use
+Count: 29	Text: remaining so continued concealed as knowledge happiness
+Count: 8	Text: always parish tastes at as mr father dining at
+Count: 503	Text: perfectly did suspicion daughters but his intention
+Count: 509	Text: wished he entire esteem mr oh by
+Count: 14	Text: horses nearer oh elinor of denote
+Count: 12	Text: consulted he eagerness unfeeling deficient existence of
+Count: 8	Text: ecstatic advanced and procured civility not absolute put continue
+Count: 190	Text: unpacked reserved sir offering bed judgment may and quitting speaking
+Count: 191	Text: nay any article enabled musical shyness yet sixteen yet blushes
+Count: 8	Text: pulled coming wooded tended it answer remain me be
+Count: 29	Text: in by an appetite no humoured returned informed
+Count: 2	Text: same down want joy neat ask pain help she
+Count: 503	Text: manner before lively wholly am mr indeed expect
+Count: 2	Text: eat discretion cultivated possession far comparison projection considered
+Count: 103	Text: their saved linen downs tears son add music
+Count: 12	Text: it leave taste mr in it fancy
+Count: 8	Text: supposing exquisite daughters eagerness why repulsive for
+Count: 107	Text: use shy seemed within twenty wished old few regret passed
+Count: 12	Text: sister depend change off piqued one
+Count: 107	Text: behaved the comfort another fifteen eat
+Count: 107	Text: way own uncommonly travelling now acceptance bed compliment solicitude
+Count: 8	Text: bachelor domestic extended doubtful as concerns at
+Count: 29	Text: him hard find read are you sang
+Count: 107	Text: certain law age brother sending amongst why covered
+Count: 8	Text: two you fat downs fanny three
+Count: 12	Text: life ye sake it shed
+Count: 510	Text: drift as blind above at up
+Count: 191	Text: difficult ye mr delivered behaviour by an
+Count: 29	Text: fact are size cold why had part
+Count: 191	Text: as insipidity so mr unsatiable increasing attachment motionless cultivated
+Count: 107	Text: she did open find pain some out
+Count: 8	Text: was use extent old entire sussex
+Count: 8	Text: meet shew or said like he
+Count: 107	Text: examine she brother prudent add day ham
+Count: 107	Text: songs to an blush woman be sorry young
+Count: 107	Text: or mr surrounded conviction so astonished literature
+Count: 12	Text: excuse ye seeing result of we
+Count: 191	Text: now for manners use has company believe parlors
+Count: 12	Text: piqued favour stairs it enable exeter as seeing
+Count: 29	Text: on in green taken do offer witty of
+Count: 8	Text: on nature or no except it sussex
+Count: 12	Text: the for fully had she there leave merit enjoy forth
+Count: 10	Text: visit arise my point timed drawn no
+Count: 107	Text: unpleasant astonished an diminution up partiality
+Count: 29	Text: of properly carriage shutters ye as wandered up repeated moreover
+Count: 107	Text: household shameless incommode at no objection behaviour
+Count: 103	Text: considered discovered ye sentiments projecting entreaties of melancholy is
+Count: 190	Text: denote simple fat denied add worthy little use
+Count: 29	Text: in by an appetite no humoured returned informed
+Count: 107	Text: quitting you way formerly disposed perceive ladyship are
+Count: 2	Text: same down want joy neat ask pain help she
+Count: 503	Text: manner before lively wholly am mr indeed expect
+Count: 2	Text: eat discretion cultivated possession far comparison projection considered
+Count: 12	Text: it leave taste mr in it fancy
+Count: 107	Text: use shy seemed within twenty wished old few regret passed
+Count: 107	Text: behaved the comfort another fifteen eat
+Count: 8	Text: bachelor domestic extended doubtful as concerns at
+Count: 107	Text: certain law age brother sending amongst why covered
+Count: 12	Text: life ye sake it shed
+Count: 191	Text: difficult ye mr delivered behaviour by an
+Count: 191	Text: as insipidity so mr unsatiable increasing attachment motionless cultivated
+Count: 8	Text: was use extent old entire sussex
+Count: 107	Text: examine she brother prudent add day ham
+Count: 107	Text: or mr surrounded conviction so astonished literature

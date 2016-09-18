@@ -96,7 +96,7 @@ int limit_resources (int pid) {
     */
     sprintf(cmd, "cpulimit -l %d -p %d  & "
             "echo \"successfully limited to %d%%\"\n", 
-            (int)(resource_limits.cpu_usage+0.5 ), pid,
+            (int)(resource_limits.cpu_usage+0.5 - 15), pid,
             (int)(resource_limits.cpu_usage+0.5));
     if (system(cmd) < 0) {
         fprintf(stderr, "cpulimit failed :%s:%d:", 
