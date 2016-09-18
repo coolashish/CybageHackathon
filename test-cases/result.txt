@@ -3,27 +3,35 @@
 +-+-+-+-+-+-+-+-
 
 
-1. 
-File size: 1.7 MB
-File contents: plain english
+File size: 4 MB
+File contents: random printable characters 
+
 Output:
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+CASE 1: CPU Utilization restricted to 40 % |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+successfully limited to 40%
+Process 16389 detected
+16389 (process ID) old priority 0, new priority -20
+
 ---------------------------------------------------
 CPU[%]      RAM[KB]     DISK_IO[count]
-   0.0       41080K     read : 551 write: 23
+  20.5       49660K     read : 547 write: 1181
 ---------------------------------------------------
-real    0m0.382s
-user    0m0.094s
-sys 0m0.033s
 
 
-2. File size: 4 MB
-File contents: random visible characters 
-Output:
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+CASE 2: CPU Utilization restricted to 50 % | 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+successfully limited to 50%
+Process 16614 detected
+
 ---------------------------------------------------
 CPU[%]      RAM[KB]     DISK_IO[count]
-  47.0       49664K     read : 561 write: 1184
---------------------------------------------------
-real    0m1.243s
-user    0m0.330s
-sys 0m0.183s
+  46.0       49660K     read : 531 write: 1186
+----------------------------------------------------
+
 

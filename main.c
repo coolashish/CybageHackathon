@@ -20,10 +20,6 @@ int main (int argc, char **argv) {
     int index = 0, sentIndex = 0;
     node ** sentTable, **wordTable;
 
-    char pid[6], cmd[16] = "renice -20 ";
-    sprintf(pid, "%d", getpid());
-    strcat(cmd, pid);
-    system(cmd);
 
     if((AllocateMemory(&sent, &word, &sentTable, &wordTable)) < 0) {
             return -1;
